@@ -25,6 +25,9 @@ dependencies:
   cloud_firestore: ^4.3.1
   uuid: ^3.0.7
   firebase_storage: ^11.0.10
+  flutter_contacts: ^1.1.5+1
+  url_launcher: ^6.1.8
+  firebase_database: ^10.0.9
 
 flutter_native_splash:
   color: "#FFFFFF"
